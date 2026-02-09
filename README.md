@@ -42,3 +42,11 @@ If the client types `exit`, the client sends `exit` to the server and closes the
 ### Terminal 1: Start the server
 ```bash
 python server.py
+---
+
+## Authors
+
+**Ahmed Elag**  
+**Marc Niven**
+This project was originally completed as part of a university course and is shared for educational and portfolio purposes.
+---
