@@ -39,18 +39,19 @@ If the client types `exit`, the client sends `exit` to the server and closes the
 - No external packages needed
 ---
 
-## Authors
+### Authors
+Ahmed Elag  
+Marc Niven  
 
-**Ahmed Elag**  
-**Marc Niven**
-This project was originally completed as part of a university course and is shared for educational and portfolio purposes.
----
+*This project was originally completed as part of a university course and is shared for educational and portfolio purposes.*
 
 ## Running the program
 ### Terminal 1: Start the server
 ```bash
 python server.py
 ---
+
+
 
 
 
